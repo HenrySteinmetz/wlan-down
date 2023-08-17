@@ -4,7 +4,7 @@
 apk add git python3
 git clone https://github.com/HenrySteinmetz/wlan-down
 cd wlan-down
-chmod ddos.py
+chmod +x ddos.py
 ```
 ## Excecution
 ```bash
