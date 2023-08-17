@@ -10,3 +10,7 @@ chmod +x ddos.py
 ```bash
 python3 ddos.py
 ```
+## Updating
+```bash
+git pull -f
+```
